@@ -1,6 +1,4 @@
 #!/bin/bash
-
-sudo su
 curl --version 2>/dev/null
 
 if [ $? -eq 0 ]
