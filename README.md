@@ -61,6 +61,8 @@ scripts/: Este diretório contém todos os scripts, organizados por serviço da 
 
 README.md: Este arquivo (que você está lendo agora) fornece documentação sobre o repositório.
 
+**Obs.: Cada pasta tem o seu readme explicando o que cada arquivo faz.**
+
 
 👤 Autor
 Desenvolvido por Leonardo Ferreira.
